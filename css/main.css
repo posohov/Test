@@ -1,0 +1,63 @@
+#body {
+    border: 2px solid black;
+    width: 500px;
+    height:800px;
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-style: italic;
+    margin: auto;
+    background: #fc0;
+}
+
+.foto {
+    height: 120px;
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    margin: 0 0 0 50px;
+    padding: 0 50;
+}
+
+.left {
+    float: left;
+    margin-right: 40px;
+}
+.rigth {
+    float:left;
+
+
+}
+
+body {
+    background: green;
+
+}
+/*span {
+	display: table-cell;
+}*/
+.summa {
+	height: 500px;
+	display: flex;
+	justify-content: center;
+
+}
+.one {
+	background: red;
+	width: 50px;
+	height: 50px;
+}
+.two { 
+     background: green;
+     width: 150;
+	height: 50;
+}
+.three {
+	background: blue;
+	width: 250;
+	height: 50;
+}
